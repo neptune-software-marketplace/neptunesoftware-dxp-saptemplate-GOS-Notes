@@ -1,0 +1,164 @@
+[
+  {
+    "field_id": "00003",
+    "attribute": "backgroundDesign",
+    "grouping": "Properties",
+    "value": "Solid"
+  },
+  {
+    "field_id": "00003",
+    "attribute": "enableScrolling",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00003",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "editable",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "labelSpanL",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "labelSpanM",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "layout",
+    "grouping": "Properties",
+    "value": "ResponsiveGridLayout"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Title"
+  },
+  {
+    "field_id": "00006",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{WA_COMMENT-OBJ_DESCR}"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Comment"
+  },
+  {
+    "field_id": "00011",
+    "attribute": "ajaxError",
+    "grouping": "Events",
+    "value": "oApp.setBusy(false);"
+  },
+  {
+    "field_id": "00011",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00013",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00014",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Save"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "Emphasized"
+  },
+  {
+    "field_id": "00016",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00016",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Cancel"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "contentWidth",
+    "grouping": "Properties",
+    "value": "300px"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "rightButton",
+    "grouping": "Associations",
+    "value": "butMessageClose"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "System Message"
+  },
+  {
+    "field_id": "00020",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "diaMessage.close();"
+  },
+  {
+    "field_id": "00020",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Close"
+  },
+  {
+    "field_id": "00021",
+    "attribute": "rows",
+    "grouping": "Properties",
+    "value": "15"
+  },
+  {
+    "field_id": "00021",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{WA_COMMENT-CONTENT}"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No GOS Object Defined"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "field_id": "00002",
+    "version": "0001",
+    "attribute": "backgroundOpacity",
+    "grouping": "Properties",
+    "value": "1"
+  },
+  {
+    "field_id": "00002",
+    "version": "0001",
+    "attribute": "backgroundRepeat",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00002",
+    "version": "0001",
+    "attribute": "defaultTransitionName",
+    "grouping": "Properties",
+    "value": "slide"
+  },
+  {
+    "field_id": "00002",
+    "version": "0001",
+    "attribute": "height",
+    "grouping": "Properties",
+    "value": "100%"
+  },
+  {
+    "field_id": "00002",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00002",
+    "version": "0001",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "100%"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "backgroundDesign",
+    "grouping": "Properties",
+    "value": "Solid"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "contentOnlyBusy",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "enableScrolling",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "showFooter",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "showNavButton",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "showSubHeader",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00003",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "breakpointL",
+    "grouping": "Properties",
+    "value": "1024"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "breakpointM",
+    "grouping": "Properties",
+    "value": "600"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "columnsL",
+    "grouping": "Properties",
+    "value": "2"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "columnsM",
+    "grouping": "Properties",
+    "value": "1"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "editable",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "emptySpanL",
+    "grouping": "Properties",
+    "value": "0"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "emptySpanM",
+    "grouping": "Properties",
+    "value": "0"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "emptySpanS",
+    "grouping": "Properties",
+    "value": "0"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "labelMinWidth",
+    "grouping": "Properties",
+    "value": "192"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "labelSpanL",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "labelSpanM",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "labelSpanS",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "layout",
+    "grouping": "Properties",
+    "value": "ResponsiveGridLayout"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "maxContainerCols",
+    "grouping": "Properties",
+    "value": "2"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "required",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Title"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "editable",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "fieldWidth",
+    "grouping": "Properties",
+    "value": "50%"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "filterSuggests",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "showSuggestion",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "showTableSuggestionValueHelp",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "showValueHelp",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "showValueStateMessage",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "startSuggestion",
+    "grouping": "Properties",
+    "value": "1"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{WA_COMMENT-OBJ_DESCR}"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "valueHelpOnly",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "attribute": "required",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Comment"
+  },
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "backgroundDesign",
+    "grouping": "Properties",
+    "value": "Standard"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "contentOnlyBusy",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "enableScrolling",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "showFooter",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "showNavButton",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "showSubHeader",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "attribute": "ajaxError",
+    "grouping": "Events",
+    "value": "oApp.setBusy(false);"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00013",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00013",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00014",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "iconDensityAware",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "iconFirst",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Save"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "Emphasized"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "iconDensityAware",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "iconFirst",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Cancel"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "appWidthLimited",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "backgroundOpacity",
+    "grouping": "Properties",
+    "value": "1"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "backgroundRepeat",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "showLogout",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00018",
+    "version": "0001",
+    "attribute": "contentWidth",
+    "grouping": "Properties",
+    "value": "300px"
+  },
+  {
+    "field_id": "00018",
+    "version": "0001",
+    "attribute": "rightButton",
+    "grouping": "Associations",
+    "value": "butMessageClose"
+  },
+  {
+    "field_id": "00018",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "System Message"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "iconDensityAware",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "iconFirst",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "diaMessage.close();"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Close"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "editable",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "required",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "rows",
+    "grouping": "Properties",
+    "value": "15"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{WA_COMMENT-CONTENT}"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00022",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No GOS Object Defined"
+  },
+  {
+    "field_id": "00022",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00022",
+    "version": "0001",
+    "attribute": "wrapping",
+    "grouping": "Properties",
+    "value": "true"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "field_id": "00001",
+    "field_name": "HTML5 Document",
+    "field_type": "HTML5 DOC",
+    "field_pos": "00001",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00002",
+    "field_name": "oApp",
+    "field_type": "UM5_APP",
+    "field_pos": "00003",
+    "field_parent": "00017",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00003",
+    "field_name": "oPageStart",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00004",
+    "field_parent": "00002",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00004",
+    "field_name": "formComment",
+    "field_type": "UM5_SFORM",
+    "field_pos": "00005",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00005",
+    "field_name": "lblformCommentOBJ_DESCR",
+    "field_type": "UM5_LABEL",
+    "field_pos": "00006",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00006",
+    "field_name": "informCommentOBJ_DESCR",
+    "field_type": "UM5_INPUT",
+    "field_pos": "00007",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00007",
+    "field_name": "lblformCommentCONTENT",
+    "field_type": "UM5_LABEL",
+    "field_pos": "00008",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00010",
+    "field_name": "oPageHidden",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00010",
+    "field_parent": "00002",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00011",
+    "field_name": "Save",
+    "field_type": "UM5_AJAX",
+    "field_pos": "00015",
+    "field_parent": "00010",
+    "event_id": "SAVE",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00012",
+    "field_name": "Init",
+    "field_type": "SCRIPT",
+    "field_pos": "00016",
+    "field_parent": "00010",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00013",
+    "field_name": "footer",
+    "field_type": "UM5_BAR",
+    "field_pos": "00018",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00014",
+    "field_name": "Right",
+    "field_type": "UM5_BARCON",
+    "field_pos": "00019",
+    "field_parent": "00013",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00015",
+    "field_name": "butSave",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00020",
+    "field_parent": "00014",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00016",
+    "field_name": "butCancel",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00021",
+    "field_parent": "00014",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00017",
+    "field_name": "oShell",
+    "field_type": "UM5_SHELL",
+    "field_pos": "00002",
+    "field_parent": "00001",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00018",
+    "field_name": "diaMessage",
+    "field_type": "UM5_DIALOG",
+    "field_pos": "00014",
+    "field_parent": "00010",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00019",
+    "field_name": "sysMessage",
+    "field_type": "UM5_MESSAG",
+    "field_pos": "00017",
+    "field_parent": "00018",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00020",
+    "field_name": "butMessageClose",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00013",
+    "field_parent": "00010",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00021",
+    "field_name": "informCommentCONTENT",
+    "field_type": "UI5_TEXTAR",
+    "field_pos": "00009",
+    "field_parent": "00004",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00022",
+    "field_name": "txtNoObject",
+    "field_type": "UM5_TEXT",
+    "field_pos": "00011",
+    "field_parent": "00010",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00023",
+    "field_name": "Resources",
+    "field_type": "RESOURCES",
+    "field_pos": "00012",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  }
+]

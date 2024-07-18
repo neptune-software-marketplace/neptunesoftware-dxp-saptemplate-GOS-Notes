@@ -1,0 +1,17 @@
+[
+  {
+    "field_id": "00011",
+    "event": "ajaxSuccess",
+    "file_name": "zui_nad_core_gos_note.zn01.#neptune#evtscr.Save.00011.ajaxSuccess.js"
+  },
+  {
+    "field_id": "00015",
+    "event": "press",
+    "file_name": "zui_nad_core_gos_note.zn01.#neptune#evtscr.butSave.00015.press.js"
+  },
+  {
+    "field_id": "00016",
+    "event": "press",
+    "file_name": "zui_nad_core_gos_note.zn01.#neptune#evtscr.butCancel.00016.press.js"
+  }
+]

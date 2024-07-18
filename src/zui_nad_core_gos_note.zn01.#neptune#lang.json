@@ -1,0 +1,38 @@
+[
+  {
+    "field_id": "00005",
+    "language": "D",
+    "attribute": "text",
+    "field_label": "Titel"
+  },
+  {
+    "field_id": "00007",
+    "language": "D",
+    "attribute": "text",
+    "field_label": "Kommentar"
+  },
+  {
+    "field_id": "00015",
+    "language": "D",
+    "attribute": "text",
+    "field_label": "Sparen"
+  },
+  {
+    "field_id": "00016",
+    "language": "D",
+    "attribute": "text",
+    "field_label": "Stornieren"
+  },
+  {
+    "field_id": "00018",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Systemmeldung"
+  },
+  {
+    "field_id": "00020",
+    "language": "D",
+    "attribute": "text",
+    "field_label": "Schließen"
+  }
+]
